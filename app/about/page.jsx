@@ -1,5 +1,5 @@
 import React from 'react'
-import Breadcrumb from '../Components/breadcrumb'
+import Breadcrumb from '../Components/Breadcrumb'
 import About from '../Components/About'
 import Main_team from '../Components/Home/Team/Main_team'
 import VideoSection from '../Components/Home/VideoSection'
