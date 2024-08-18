@@ -1,6 +1,6 @@
 import React from 'react'
 import Breadcrumb from '../Components/Breadcrumb'
-import Industry_leftside from './_components/industry_leftside'
+// import Industry_leftside from './_components/industry_leftside'
 import Health_care from './_components/Health_care'
 import Startup from './_components/Startup'
 import Garment from './_components/Garment'
